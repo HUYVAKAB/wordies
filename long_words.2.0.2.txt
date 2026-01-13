@@ -122,3 +122,6 @@ Sphygmomanometer
 Glockenspiel
 Paradigm
 phlegm
+larynx
+pharynx
+sphynx
